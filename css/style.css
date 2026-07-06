@@ -199,8 +199,3 @@ footer{
     padding:15px;
     margin-top:20px;
 }
-nav a.active {
-    color: red;
-    font-weight: bold;
-    border-bottom: 2px solid red;
-}
